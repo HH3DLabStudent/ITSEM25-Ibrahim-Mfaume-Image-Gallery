@@ -1,5 +1,5 @@
 # Image-Gallery
-otary Encoder Image Viewer on TFT Display
+Rotary Encoder Image Viewer on TFT Display
 ==========================================
 
 This project displays 16-bit color images on a TFT screen and allows users to cycle through them using a rotary encoder.
